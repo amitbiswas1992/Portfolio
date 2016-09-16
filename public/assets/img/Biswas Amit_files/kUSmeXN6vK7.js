@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["ppMnX"]); }
+
+__d('NotificationsTabsModel',['EnterpriseLabsLoggingEvents','EnterpriseLabsTypedLogger'],(function a(b,c,d,e,f,g){if(c.__markCompiled)c.__markCompiled();var h={TABS:['All','Conversations','Keywords'],_onTabSelectionChanged:function i(){var j=h.TABS[this.getSelectedIndex()];new (c('EnterpriseLabsTypedLogger'))().setEntityID('tab:'+j).setEvent(c('EnterpriseLabsLoggingEvents').NT_CLICK_TAB_CONVERSATIONS).log();}};f.exports=h;}),null);
