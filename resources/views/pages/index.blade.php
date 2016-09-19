@@ -89,7 +89,7 @@
 					<span class="glyphicon glyphicon glyphicon-earphone call" aria-hidden="true"></span>
 				</a>
 				<!-- Button 'Hire me' -->
-				<a class="hireme button-mywall" data-scroll data-options='{ "easing": "easeOutQuint" }' href="#contacto">Hire me now</a>
+				<a class="hireme button-mywall" data-scroll data-options='{ "easing": "easeOutQuint" }' href="#">Contact Me</a>
 			</div>
 			<!-- // Menu right -->
 		</div>
@@ -99,8 +99,8 @@
 		<div class="container">
 			<img class="img-circle imgsus" alt="Amit Biswas" src="{{ asset('assets/img/amit.png')}}"/>
 			<h1 class="name-boss">Amit Biswas</h1>
-			<h2 class="main-details">Designer. Programmer. Creative. Innovator.</h2>
-			<p class="extend-details">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+			<h2 class="main-details">Junior Software Engineer</h3>
+			<p class="extend-details">Code is my way of life ! </p>
 		</div>
 		<!-- // Personal Details -->
 	</header>
@@ -129,8 +129,9 @@
 				<!-- Text about me -->
 				<div class="col-md-6">
 					<h2 class="title-main">About Me.</h2>
-					<p class="text-main">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-					<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					<p class="text-main">  I enjoy taking of challenges. I have a great appreciation for building &amp; design web app . Software Engineering is my passion. I have a strong enthusiasm for sharing information, idea and assisting people. I am extremely passionate about creating new concept for Application development beside this I am trying to explore myself as a young entrepreneur where I would love to implement  my youth leadership experience for the next generation technology. 
+
+					<br><br>  </p>
 				</div>
 				<!-- Image right about me -->
 				<div class="col-md-6">
@@ -570,13 +571,13 @@
 			<div class="row">
 				<!-- Social Networks -->
 				<div class="col-sm-12 btn-class col-md-7">
-					<a href="" class="social-ink">
+					<a href="https://twitter.com/tweetamitbiswas" class="social-ink">
 						<img class="socl" src="{{ asset('assets/img/twitter-icon.png')}}" alt="twitter"/>
 					</a>
-						<a href="#" class="social-ink">
+						<a href="https://www.linkedin.com/in/amitbiswasbigolab" class="social-ink">
 						<img class="socl" src="{{ asset('assets/img/linkedin-icon.png')}}" alt="linkedin"/>
 					</a>
-					<a href="#" class="social-ink">
+					<a href="https://github.com/amitbiswas1992" class="social-ink">
 						<img class="socl" src="{{ asset('assets/img/github8.png')}}" alt="google"/>
 					</a>
 				
@@ -602,12 +603,12 @@
 			<div class="row">
 				<div class="col-md-6 col-xs-12 txt-center">
 					<p class="icon-ct glyphicon glyphicon-map-marker"></p>
-					<p class="text-ct">I live in <b>Madrid</b></p>
+					<p class="text-ct">I live in <b>New York City</b></p>
 				</div>
 				<!--Mail -->
 				<div class="col-md-6 col-xs-12 txt-center">
 					<p class="icon-ct glyphicon glyphicon-send"></p>
-					<p class="text-ct">andrey@marin.com</p>
+					<p class="text-ct">contact@amitbiswas.com</p>
 				</div>
 			</div>
 		</div>
@@ -644,9 +645,9 @@
 		<div class="container padding-footer">
 			<!-- Text Left -->
 			<div class="row">
-				<div class="col-sm-8 foo-left">This is my personal resume and I hope you enjoyed it. See you soon. <br> Andrey Marin.</div>
+				<div class="col-sm-8 foo-left">This is my personal Portfolio and I hope you enjoyed it. <br> </div>
 				<!-- Text Right -->
-				<div class="col-sm-4 foo-right">Made with <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> in Madrid</div>
+				<div class="col-sm-4 foo-right"> <span class="glyphicon glyphicon-globe" aria-hidden="true"></span> www.amitbiswas.net</div>
 			</div>
 		</div>
 	</footer>
