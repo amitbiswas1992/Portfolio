@@ -570,19 +570,19 @@
 			<div class="row">
 				<!-- Social Networks -->
 				<div class="col-sm-12 btn-class col-md-7">
-					<a href="https://twitter.com/tweetamitbiswas" class="social-ink">
+					<a href="" class="social-ink">
 						<img class="socl" src="{{ asset('assets/img/twitter-icon.png')}}" alt="twitter"/>
 					</a>
-					<a href="#" class="social-ink">
-						<img class="socl" src="{{ asset('assets/img/facebook-icon.png')}}" alt="facebook"/>
-					</a>
-					<a href="#" class="social-ink">
-						<img class="socl" src="{{ asset('assets/img/google-icon.png')}}" alt="google"/>
-					</a>
-					<a href="#" class="social-ink">
+						<a href="#" class="social-ink">
 						<img class="socl" src="{{ asset('assets/img/linkedin-icon.png')}}" alt="linkedin"/>
 					</a>
+					<a href="#" class="social-ink">
+						<img class="socl" src="{{ asset('assets/img/github8.png')}}" alt="google"/>
+					</a>
+				
 				</div>
+
+                
 				<!-- Download Resume - CV -->
 				<div class="col-sm-5 btn-class hidden-sm hidden-xs">
 					<a class="btn-dwnld" href="#">Download Resume</a>
