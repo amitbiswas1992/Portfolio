@@ -33,7 +33,7 @@
 				</div>
 				<div class="modal-body">
 					<!-- Your phone number -->
-					<div class="myphone"><p class="greynum">+40</p> 124 445 994</div>
+					<div class="myphone"><p class="greynum">+1</p>3476217821</div>
 					<!-- Contact hours -->
 					<div class="contacthours">
 						<p class="hourcall">Contact hours</p>
@@ -110,12 +110,12 @@
 	<section id="about" class="cd-intro">
 		<h1 class="cd-headline letters type">
 			<!-- Static Text -->
-			<span>Hi. I'm </span>
+			<span>Hi.. </span>
 			<!-- Automatic Text Type -->
 			<span class="cd-words-wrapper waiting">
-				<b class="is-visible">the next Steve Jobs</b>
-				<b>incredible and amazing</b>
-				<b>better than the Flash</b>
+				<b class="is-visible"> I am a Coder</b>
+				<b>I love to be an  Enterprenour </b>
+				<b> Dreamer , Creative , Optimistic</b>
 			</span>
 		</h1>
 	</section>
@@ -491,11 +491,11 @@
 		<div class="container cont-mg">
 			  <!-- Nav tabs -->
 			  <ul class="nav nav-tabs" role="tablist">
-			    <li role="presentation" class="active"><a href="#1" role="tab" data-toggle="tab">Google</a></li>
-			    <li role="presentation"><a href="#2" role="tab" data-toggle="tab">Envato</a></li>
-			    <li role="presentation"><a href="#3" role="tab" data-toggle="tab">Dribbble</a></li>
-			    <li role="presentation"><a href="#4" role="tab" data-toggle="tab">Github</a></li>
-			    <li role="presentation"><a href="#5" role="tab" data-toggle="tab">Freelancer</a></li>
+			    <li role="presentation" class="active"><a href="#1" role="tab" data-toggle="tab">MazeGeek </a></li>
+			    <li role="presentation"><a href="#2" role="tab" data-toggle="tab">Virtualschool</a></li>
+			    <li role="presentation"><a href="#3" role="tab" data-toggle="tab">BigOlab</a></li>
+			    <li role="presentation"><a href="#4" role="tab" data-toggle="tab">Melytune </a></li>
+			 
 			  </ul>
 
 			  <!-- Tab panes -->
