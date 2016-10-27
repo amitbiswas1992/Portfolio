@@ -483,9 +483,9 @@
 	<!-- Work Experience -->
 	<section id="work" class="full-section-two bg-work">
 		<!-- Text Work Experience -->
-		<div class="container">
-			<h2 class="title-main mywhite">Work Experience.</h2>
-			<p class="text-main mywhite">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<div class="container ">
+			<h2 class="title-main mywhite">Work Experience</h2>
+			<p class="text-main mywhite">I would like to mention something that’s related directly to  my career. </p>
 		</div>
 		<!-- Work -->
 		<div class="container cont-mg">
@@ -502,10 +502,10 @@
 			  <div class="tab-content">
 			  	<!-- Tab 1 -->
 			    <div role="tabpanel" class="tab-pane fade active in" id="1">
-			    	<h3 class="title-wk">Front End Web Developer</h3>
-					<p class="wk-company">Google Inc.</p>
-					<p class="text-wk">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor. <br> Duis aute irure dolor in reprehenderit in voluptate velit.</p>
-					<p class="wk-date">2014 - 2015</p>
+			    	<h3 class="title-wk">Junior Software Engineer</h3>
+					<p class="wk-company">MazeGeek</p>
+					<p class="text-wk">Responsible for design user interface with AngularJS, developing back-end in stack on php MVC (laravel) and using PostgreSQL as remote database in a SCRUM team.Alongside iOS application designing and prototyping, he handles and takes part in overhauling entire settings menu and integrates a complex database system. By Collaborating and subcontracting with other developers to ensuring enterprise level code and products. <br> </p>
+					<p class="wk-date">Jun 2016- Present</p>
 			    </div>
 			    <!-- Tab 2 -->
 			    <div role="tabpanel" class="tab-pane fade" id="2">
